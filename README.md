@@ -17,7 +17,7 @@
 
 
 # Sobre mim
-Curso Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
+Curso Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
 
 * Estagiário Universitário no Grupo Neoenergia - Elektro
 * Graduando em Engenharia de Produção.
