@@ -2,8 +2,9 @@
  Bem vindo ao meu Guithub!
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfabri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="center" alt="Rafae Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafae Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
+          
 
 <div style="display: inline_block"><br>
   
@@ -14,12 +15,14 @@
   
 ![Snake animation](https://github.com/rafaelfabri/rafaelfabri/blob/output/github-contribution-grid-snake.svg)
 
-
+Repositório:
+ - [Projetos Data Science](https://github.com/alura-cursos/fundamentos-android-parte-2)
+ - [Artigos Data Science](https://github.com/rafaelfabri/Artigos-Data-Science)
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
 
-* Estagiário Universitário no Grupo Neoenergia - Elektro
+* Estagiário de Data Analytics na Neoenergia.
 * Graduando em Engenharia de Produção.
 * Atuei como pesquisador de iniciação científica pela agência de fomento Fapesp na área de nanomaterias. 
 * Participei de projetos de extensão científica.
