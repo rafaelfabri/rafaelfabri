@@ -16,7 +16,7 @@
 ![Snake animation](https://github.com/rafaelfabri/rafaelfabri/blob/output/github-contribution-grid-snake.svg)
 
 Repositório:
- - [Projetos Data Science](https://github.com/alura-cursos/fundamentos-android-parte-2)
+ - [Projetos Data Science](https://github.com/rafaelfabri/Data-Science)
  - [Artigos Data Science](https://github.com/rafaelfabri/Artigos-Data-Science)
 
 # Sobre mim
