@@ -22,10 +22,7 @@ Repositório:
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
 
-* Estagiário de Data Analytics na Neoenergia.
-* Graduando em Engenharia de Produção.
-* Atuei como pesquisador de iniciação científica pela agência de fomento Fapesp na área de nanomaterias. 
-* Participei de projetos de extensão científica.
-* Atuei como professor voluntário do cursinho pré vestibular da Unesp - Itapeva
-* Atuei como como monitor voluntário na discplina de Cálculo II.
+* Analista de dados na CPFL Energia
+* Estagiei como Data Analytics na Neoenergia.
+* Bacharel em Engenharia de Produção.
 
