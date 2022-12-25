@@ -1,10 +1,10 @@
 # Olá, sou Rafael Fabri
  Bem vindo ao meu Guithub!
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfabri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="center" alt="Rafae Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
-          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelfabri&theme=radical)](https://github.com/rafaelfabri/github-readme-stats)  
+
+<img align="center" alt="Rafael Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
 
 <div style="display: inline_block"><br>
   
