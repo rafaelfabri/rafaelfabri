@@ -13,8 +13,6 @@
  <a href="https://www.instagram.com/rafafabric/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/rafaelfabri/rafaelfabri/blob/output/github-contribution-grid-snake.svg)
-
 Repositório:
  - [Projetos Data Science](https://github.com/rafaelfabri/Data-Science)
  - [Artigos Data Science](https://github.com/rafaelfabri/Artigos-Data-Science)
