@@ -13,14 +13,10 @@
  <a href="https://www.instagram.com/rafafabric/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-Repositório:
- - [Projetos Data Science](https://github.com/rafaelfabri/Data-Science)
- - [Artigos Data Science](https://github.com/rafaelfabri/Artigos-Data-Science)
+
 
 # Sobre mim
-Curso Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
+Engenharia de Produção com ênfase em materiais - <img align="center" alt="Rafae Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Unesp.svg"> Campus de Itapeva.
 
-* Analista de dados na CPFL Energia
-* Estagiei como Data Analytics na Neoenergia.
-* Bacharel em Engenharia de Produção.
+Com dois anos de experiência no setor de dados, atualmente sou analista de dados especializado em Python, SQL, com sólido conhecimento em Pandas, Pyspark, Machine Learning e Deep Learning. Habilidades incluem PowerBI, Pandas e Matplotlib, Streamlit para transformação e visualização de dados. Tenho expertise em tarefas de classificação e regressão usando Scikit Learn e TensorFlow. Adicionalmente, realizo ETL, RPA e automação em projetos de análise de dados e trabalho de forma On-Premisses e DataBricks.
 
